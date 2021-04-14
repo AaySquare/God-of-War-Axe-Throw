@@ -1,0 +1,22 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{D5C803AA-41DF-3EC9-62A8-DDAC8F185035}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "GodofWarAxeThrow",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Engine"
+			]
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "ApexDestruction",
+			"Enabled": true
+		}
+	]
+}
